@@ -9,7 +9,7 @@ Repository for the study of the RASA package and for the development of a ChatBo
 
 ## How to Run
 
-1. Install the requirements with the command: `pip install -r requirements.txt`
+1. Install the requirements with the command: `pip3 install rasa`
 2. Run the command: `rasa shell`
 3. Talk with the bot
 
